@@ -5,7 +5,7 @@
 This repository contains two notebooks:
 
 - "HelloWorld" is just a test to check that the infrastructure is working.
-- "AI_Technology_Introduction" is the notebook accompanying the course Artificial intelligence in healthcare - opportunities and challenges, 4XN020.
+- "AI_Technology_Introduction" is the notebook accompanying the courses "Artificial intelligence in healthcare - opportunities and challenges, 4XN020" and "AI for managers, 4DV662".
 
 Additional files:
 
