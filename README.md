@@ -15,4 +15,10 @@ Additional files:
 ## Instructions
 
 1. Open the notebook "AI_4_Med_Technology_Introduction" (click on the link when you hoover over it).
-2. Open the notebook in colab
+2. Open the notebook in colab (click on the "Open in Colab" link on to of the document).
+3. Step through the document top down, read the documentation and run the code as it is (click on the play symbols that show up in the code boxes when you hoover over them).
+4. Go back to the tasks (red), add text boxes below them (click on the Task box then on the "+ Text" button on top of your notebook frame).
+5. Answer the questions.
+6. Optionally, play arround with code and documentation as you like.
+7. Finally, download the modified notebook (File -> Download -> Download .ipynb).
+8. Upload to to the myMoodle course homepage as your assignment solution. 
