@@ -1,4 +1,4 @@
-# ML4Med
+# ML Introduction 4 non-programmers
 
 ## Content
 
