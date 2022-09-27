@@ -9,7 +9,7 @@ This repository contains two notebooks:
 
 Additional files:
 
-- "heights_weights.csv" is a file downloaded from [Kaggle](https://www.kaggle.com/) that contains publically avaiable datasets.
+- "heights_weights.csv" is a file downloaded from [Kaggle](https://www.kaggle.com/) that contains publically avaiable datasets. It is being loaded in the notebooks.
 - "README.md" is this file.
 
 ## Assignment instructions
