@@ -14,7 +14,7 @@ Additional files:
 
 ## Assignment instructions
 
-1. Open the notebook "AI_4_Med_Technology_Introduction" (click on the link when you hoover over it).
+1. Open the notebook "AI_Technology_Introduction" (click on the link when you hoover over it).
 2. Open the notebook in colab (click on the "Open in Colab" link on to of the document).
 3. Step through the document top down, read the documentation and run the code as it is (click on the play symbols that show up in the code boxes when you hoover over them).
 4. Go back to the tasks (red), add text boxes below them (click on the Task box then on the "+ Text" button on top of your notebook frame).
