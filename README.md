@@ -21,4 +21,4 @@ Additional files:
 5. Answer the questions.
 6. Optionally, play arround with code and documentation as you like.
 7. Finally, download the modified notebook (File -> Download -> Download .ipynb).
-8. Upload to to the myMoodle course homepage as your assignment solution. 
+8. Upload to to the MyMoodle course homepage as your assignment solution. 
