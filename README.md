@@ -1,4 +1,4 @@
-# ML Introduction 4 non-programmers
+# ML introduction for non-programmers
 
 ## Content
 
