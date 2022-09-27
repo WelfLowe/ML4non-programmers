@@ -1,4 +1,7 @@
 # ML4Med
+
+## Content
+
 This repository contains two notebooks:
 
 - "HelloWorld" is just a test to check that the infrastructure is working.
@@ -8,3 +11,7 @@ Additional files:
 
 - "heights_weights.csv" is a file downloaded from [Kaggle](https://www.kaggle.com/) that contains publically avaiable datasets.
 - "README.md" is this file.
+
+## Instructions
+
+1. Open the notebook "AI_4_Med_Technology_Introduction" 
