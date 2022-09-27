@@ -20,5 +20,5 @@ Additional files:
 4. Go back to the tasks (red), add text boxes below them (click on the Task box then on the "+ Text" button on top of your notebook frame).
 5. Answer the questions.
 6. Optionally, play arround with code and documentation as you like.
-7. Finally, download the modified notebook (File -> Download -> Download .ipynb).
+7. Finally, download the modified notebook (File -> Download -> .ipynb).
 8. Upload to to the MyMoodle course homepage as your assignment solution. 
