@@ -14,4 +14,5 @@ Additional files:
 
 ## Instructions
 
-1. Open the notebook "AI_4_Med_Technology_Introduction" 
+1. Open the notebook "AI_4_Med_Technology_Introduction" (click on the link when you hoover over it).
+2. Open the notebook in colab
