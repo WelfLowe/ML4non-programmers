@@ -1,5 +1,10 @@
 # ML4Med
-This repository contains two notebooks.
+This repository contains two notebooks:
 
 - "HelloWorld" is just a test to check that the infrastructure is working.
 - "AI_4_Med_Technology_Introduction" is the notebook accompanying the course Artificial intelligence in healthcare - opportunities and challenges, 4XN020.
+
+Additional files:
+
+- "heights_weights.csv" is a file downloaded from [Kaggle](https://www.kaggle.com/) that contains publically avaiable datasets.
+- "README.md" is this file.
