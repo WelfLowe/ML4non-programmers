@@ -12,7 +12,7 @@ Additional files:
 - "heights_weights.csv" is a file downloaded from [Kaggle](https://www.kaggle.com/) that contains publically avaiable datasets.
 - "README.md" is this file.
 
-## Instructions
+## Assignment instructions
 
 1. Open the notebook "AI_4_Med_Technology_Introduction" (click on the link when you hoover over it).
 2. Open the notebook in colab (click on the "Open in Colab" link on to of the document).
